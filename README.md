@@ -1,1 +1,2 @@
-# E-Commerce-Website-MyCart.com
+# E-Commerce Website : MyCart.com
+Mycart.com is an ecommerce website. The main objective of the project is to manage the details of items, customers and seller. It manages all the information about orders, deliveries and customers. The purpose of the project is to build an application program to reduce the manual work for managing the clothes, item category, delivery and shopping cart. It tracks all the details about the shopping cart, customer, order.
